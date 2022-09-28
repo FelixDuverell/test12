@@ -1,1 +1,5 @@
-console.log("Hej");
+const addTal = () => {
+    console.log("Hej");
+}
+
+addTal();
